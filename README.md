@@ -38,7 +38,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raghooda&show_icons=true&theme=radical" alt="Raghad's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raghad&show_icons=true&theme=radical" alt="Raghad's GitHub Stats" />
 </p>
 
 ---
