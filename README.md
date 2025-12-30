@@ -10,7 +10,7 @@
 ---
 
 ### 👩‍💻 About Me
-- 🎓 Studying **Data Science** with a growing interest in **Data Analysis & Visualization**.  
+- 🎓 Studying **Data Science** with a growing interest in **AI, Deep Learning & Data Analysis**.  
 - 💡 Love exploring new ideas, cleaning messy data, and building models.  
 - 📬 Reach me on [LinkedIn](https://www.linkedin.com/in/raghad-khudair-86659126a).  
 - ⚡ Fun fact: I enjoy being creative and bringing new ideas & systems to life.  
