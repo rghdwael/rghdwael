@@ -9,15 +9,15 @@
 
 ---
 
-### 👩‍💻 About Me
-- 🎓 Studying **Data Science** with a growing interest in **AI, Deep Learning & Data Analysis**.  
-- 💡 Love exploring new ideas, cleaning messy data, and building models.  
-- 📬 Reach me on [LinkedIn](https://www.linkedin.com/in/raghad-khudair-86659126a).  
-- ⚡ Fun fact: I enjoy being creative and bringing new ideas & systems to life.  
+### About Me
+-Studying **Data Science** with a growing interest in **AI, Deep Learning & Data Analysis**.  
+- Love exploring new ideas, cleaning messy data, and building models.  
+- Reach me on [LinkedIn](https://www.linkedin.com/in/raghad-khudair-86659126a).  
+
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql" alt="Python and SQL Icons" />
   <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="48" height="48" alt="Excel Icon" />
@@ -33,6 +33,4 @@
 
 ---
 
-### 🌟 Quote I Like
 > *“It’s never too late.”*  
-> – Raghad 😊
